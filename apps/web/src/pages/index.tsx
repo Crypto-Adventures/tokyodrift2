@@ -1,7 +1,7 @@
 import { Button, WalletConnectModal } from "ui";
 import Head from "next/head";
 import { useContractWrite, useAccount } from "wagmi";
-import { Storage__factory, Storage } from "@/typechain";
+import { Storage__factory, Storage } from "typechain";
 import { ethers } from "ethers";
 import * as React from "react";
 
