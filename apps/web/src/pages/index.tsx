@@ -66,7 +66,7 @@ export default function Web() {
   return (
     <div className="max-w-lg mt-36 mx-auto text-center px-4">
       <Head>
-        <title>Next.js Dapp Starter Ts</title>
+        <title>TokyoDrift Tableland Adventures</title>
       </Head>
 
       <main className="space-y-8">
